@@ -8,5 +8,6 @@
     },
     "icons": {
         "128": "logo.png"
-    }
+    },
+    "site_access": "full access"
 }
